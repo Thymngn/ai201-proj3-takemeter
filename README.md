@@ -101,10 +101,6 @@ The notebook splits automatically: **70% train / 15% validation / 15% test**
 
 ---
 
-## Evaluation Results
-
-*(Filled in after running the notebook)*
-
 ### Overall Accuracy
 
 | Model | Accuracy |
@@ -122,7 +118,6 @@ The notebook splits automatically: **70% train / 15% validation / 15% test**
 
 ### Confusion Matrix
 
-*(Replace with actual values after running notebook)*
 
 |  | Predicted positive | Predicted negative | Predicted neutral |
 |--|---|---|---|
@@ -155,9 +150,11 @@ True:      positive
 Predicted: neutral  (confidence: 0.34)
 
 **Example 3:**  
+
 Text:      New song in the lobby is an absolute bop. Idk who composes for this game but they need a raise.
 True:      positive
 Predicted: negative  (confidence: 0.35)
+
 ---
 ## Confusion matrix
 ![Alt text](confusion_matrix.png)
