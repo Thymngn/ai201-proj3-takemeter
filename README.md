@@ -5,7 +5,8 @@
 This project fine-tunes a DistilBERT model to classify r/splatoon posts into three sentiment categories: **positive**, **negative**, and **neutral**. The goal is to explore whether a small fine-tuned model can learn the community-specific sentiment boundaries that distinguish hype/enjoyment from frustration/criticism from informational discussion.
 
 ---
-
+https://youtu.be/DmqZqDcRytc
+---
 ## Label Taxonomy
 
 | Label | Definition |
